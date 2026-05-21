@@ -1,0 +1,5 @@
+4,3,mar
+2,20,masinuta
+1,50,tricou
+5,23,ananas
+3,6,capsuna
